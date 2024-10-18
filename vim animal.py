@@ -1,5 +1,8 @@
 import sys
 
+def cat():
+    print("Mewo")
+
 def default():
     print('I am an animal')
 
